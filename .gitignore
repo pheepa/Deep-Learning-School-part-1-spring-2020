@@ -1,4 +1,9 @@
-.pynb_checkpoints
+.pynb_checkpoints/
 *.rar
 journey-springfield/
 old/
+files/
+__pycache__/
+lfw_attributes.txt
+lfw-deepfunneled/
+
